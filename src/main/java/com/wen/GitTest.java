@@ -9,6 +9,7 @@ public class GitTest {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("github 的修改");        
+        System.out.println("gitee 的修改");
 
     }
 }
